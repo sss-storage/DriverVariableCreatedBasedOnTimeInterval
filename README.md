@@ -1,4 +1,4 @@
-# Execute ECMA script based on time interval and parse XML doc
+# Execute ECMA script based on time interval and parse XML doc to cache Auth Token
 
 Several actions required
 
