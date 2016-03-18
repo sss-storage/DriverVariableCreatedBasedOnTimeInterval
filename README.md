@@ -1,4 +1,4 @@
-# Create driver variable based on a time interval and then execute ECMA script based on time interval
+# Execute ECMA script based on time interval and parse XML doc
 
 Several actions required
 
